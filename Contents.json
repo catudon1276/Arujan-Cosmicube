@@ -1,0 +1,726 @@
+{
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "0a2db8357ed7bafb85f0042d69519361",
+				"Address" : "ArujanHACCHAAN.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "1ea59f368e618bf7e5b44ca2df1b7901",
+				"Address" : "ArujanHACCHAAN_flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "de1ef2a3236c0cb5ba9a78601e4327a0",
+				"Address" : "ArujanHACCHAAN_back.png",
+				"ExIsFront" : False
+			},
+			"BackFlip" : {
+				"Hash" : "de1ef2a3236c0cb5ba9a78601e4327a0",
+				"Address" : "ArujanHACCHAAN_flip_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "dd072e0f73134f46af1621291ff77bf9",
+				"Address" : "ArujanHACCHAAN_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u30cf\u30c3\u30c1\u30e3\u30f3",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "12cfb8e741af21e815da1e01333106e8",
+				"Address" : "ArujanHachiko.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "289d44d22a56344a17dbb84c88f521d6",
+				"Address" : "ArujanHachiko_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u30cf\u30c1\u30b3",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "cf86716ce927d5e4f689f67ee42fdbd7",
+				"Address" : "ArujanPonzuyaro.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "aa4b4fae4a9e4dadb3d115485e3a45b6",
+				"Address" : "ArujanPonzuyaro_flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d0a825012e615f1dcaad1bf23726099f",
+				"Address" : "ArujanPonzuyaro_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u30dd\u30f3\u9162\u91ce\u90ce",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "afa899240d9fe724ebc0d5b756e205ff",
+				"Address" : "ArujanTossin.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "33c5056aa0c4f94bcf9976d7aa33ff04",
+				"Address" : "ArujanTossin_back.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "c18f53b8f9ee1c3ea8d0e16d7f989462",
+				"Address" : "ArujanTossin_flip.png",
+				"ExIsFront" : False
+			},
+			"MoveBack" : {
+				"Hash" : "33c5056aa0c4f94bcf9976d7aa33ff04",
+				"Address" : "ArujanTossin_flip_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "daea75ff2d657eb58aa01affb24c0c76",
+				"Address" : "ArujanTossin_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u3068\u3063\u3057\u3093",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "4ab786299ae763f42d7572d102c89141",
+				"Address" : "ArujanNatsupyon.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "ba186b105386ff648aa922048dcbdecf",
+				"Address" : "ArujanNatsupyon_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "3b3f40b69d40d04a3efcde987db6ff00",
+				"Address" : "ArujanNatsupyon_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "なつぴょん",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "e78c644c30e69153be1a2bdd1046ba5d",
+				"Address" : "ArujanShijinSan.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "7c818c0b6a8aa96c9258c5a73f8616cb",
+				"Address" : "ArujanShijinSan_flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e4ef6f8b9a685e477b64022b7dad5bf2",
+				"Address" : "ArujanShijinSan_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u8a69\u4eba\u3055\u3093",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "5cec233e0f6c95df3214f1b6cdd0bb80",
+				"Address" : "ArujanMisatoRan.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "c5684295658acfc6a79c4ed1b66ba578",
+				"Address" : "ArujanMisatoRan_flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "c5684295658acfc6a79c4ed1b66ba578",
+				"Address" : "ArujanMisatoRan_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "87872d39bc3d80e92d8ab0c9e4d6cb30",
+				"Address" : "ArujanMisatoRan_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "みさとらん",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "0d797f8d67537e993c7197f9a008c910",
+				"Address" : "ArujanNeoMisatoRan_front.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "2144864f924d763d441fdd22f52ce047",
+				"Address" : "ArujanNeoMisatoRan_flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "fa709f81adf4bc2f8798cb8daf2ab6f9",
+				"Address" : "ArujanNeoMisatoRan_back.png",
+				"ExIsFront" : False
+			},
+			"BackFlip" : {
+				"Hash" : "fa709f81adf4bc2f8798cb8daf2ab6f9",
+				"Address" : "ArujanNeoMisatoRan_flip_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c63156eb62ab49d4ccfe8fefef6a2411",
+				"Address" : "ArujanNeoMisatoRan_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u30cd\u30aa\u307f\u3055\u3068\u3089\u3093",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "9eecc3855f6616bb9bbf04a93bd18d97",
+				"Address" : "ArujanTakeo.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "863419b4e58bdfc83f511677de7ab115",
+				"Address" : "ArujanTakeo_flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b4574b7d9ffe9d6f0fd3ddf1ad2820c3",
+				"Address" : "ArujanTakeo_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u305f\u3051\u3049",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "4f352ff063fac3cd933420f6b48b496e",
+				"Address" : "ArujanBubbleCake.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "89ff4894370c791f9af2c299d8943639",
+				"Address" : "ArujanBubbleCake_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "5ee3df4ae3d5a4cca5d1b005806c63b9",
+				"Address" : "ArujanBubbleCake_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u30d0\u30d6\u30eb\u30b1\u30fc\u30ad",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "5de996717330c85895651f84f3b9b693",
+				"Address" : "ArujanHatena.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "fc0d2ccc73cba8cbb5d62eaeb626b99a",
+				"Address" : "ArujanHatena_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c3a09691cae3bd61dd51f27944fb75ee",
+				"Address" : "ArujanHatena_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u306f\u3066\u306a",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "1d5cfa9e32d57ff9f1c57aed05950c6f",
+				"Address" : "ArujanOsion.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "962987bf9a33418552354f50fb2f612f",
+				"Address" : "ArujanOsion_flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "91a12add94998ed3a4dcaf39079cde9b",
+				"Address" : "ArujanOsion_back.png",
+				"ExIsFront" : False
+			},
+			"BackFlip" : {
+				"Hash" : "29998547e2554712a8f0ba7aee3a4f84",
+				"Address" : "ArujanOsion_flip_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "fff064b4335c40f73fa07721d06c655e",
+				"Address" : "ArujanOsion_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u30aa\u30b7\u30aa\u30f3",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "374cfeaf73ee19b83ce1481257d3dff2",
+				"Address" : "ArujanMeiHirasaka.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "986f61190a38d6190165c22d32dd99cb",
+				"Address" : "ArujanMeiHirasaka_flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "e1f12d7b64697b4658d011fd07ec3492",
+				"Address" : "ArujanMeiHirasaka_back.png",
+				"ExIsFront" : False
+			},
+			"BackFlip" : {
+				"Hash" : "e1f12d7b64697b4658d011fd07ec3492",
+				"Address" : "ArujanMeiHirasaka_flip_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e094fb19dde4b2ff7d8522dc619c458b",
+				"Address" : "ArujanMeiHirasaka_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u6bd4\u826f\u5742\u82bd\u8863",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "00faf3b3cb3099ca8f260a2f9768529d",
+				"Address" : "ArujanChagepoyo.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "393d4c799401ad2ff8c4531a7b83c708",
+				"Address" : "ArujanChagepoyo_flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "207749df09ca1cd1ef03d013887b060a",
+				"Address" : "ArujanChagepoyo_back.png",
+				"ExIsFront" : False
+			},
+			"BackFlip" : {
+				"Hash" : "e83984426847c5f7f1b121a4c57d86ec",
+				"Address" : "ArujanChagepoyo_flip_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "cb29f8afda4af51910184c4a05ca3c38",
+				"Address" : "ArujanChagepoyo_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u3061\u3083\u3052\u307d\u3088\u3002",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "135ee416116f9ebd33fb8f5abf30a9e5",
+				"Address" : "ArujanMansaya.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "a5a4af89eab72f5e536fa23334c41a4d",
+				"Address" : "ArujanMansaya_flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "18a9f1dd901eb6d8affcdf12a3b77c54",
+				"Address" : "ArujanMansaya_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e2d3dd0892db0a1579cb258c974ad2e4",
+				"Address" : "ArujanMansaya_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u307e\u3093\u3055\u3084\u69d8",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "816ae698b9b812f2e3ea8e7a0e44928c",
+				"Address" : "ArujanAverage.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "221a63857be5168128f6267b048ff9c8",
+				"Address" : "ArujanAverage_flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "abf8c4466234f5ac5a999023967fd9b7",
+				"Address" : "ArujanAverage_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u30a2\u30d9\u30ec\u30fc\u30b8",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "1872ce0314a548ac6cfb0485599b3e5a",
+				"Address" : "ArujanAruma.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "5d26830fc74a386534bd7be51e111803",
+				"Address" : "ArujanAruma_flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "2bf7ca387199015b48e2e0714a41d911",
+				"Address" : "ArujanAruma_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u4e2d\u91ce\u3042\u308b\u307e",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "57dd4936dd29632c8aed264789f241a5",
+				"Address" : "ArujanKankitsuMetal.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "3269edf0c563729afb275a6415020681",
+				"Address" : "ArujanKankitsuMetal_flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "ae7177347ebdd83ce3d60bf4f9bd2762",
+				"Address" : "ArujanKankitsuMetal_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u67d1\u6a58\u3081\u305f\u308b",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "ada8ce2535878628d2cd348ee7dfa6f9",
+				"Address" : "ArujanOtaku.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "3dcb0e0682bf0a4d948c50c6b50e26de",
+				"Address" : "ArujanOtaku_back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "eb0582eb4b9409400bb56b4ae0b9ea30",
+				"Address" : "ArujanOtaku_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u30aa\u30bf\u30af",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "111b2bd91171c85ac24f637e1c72cc9c",
+				"Address" : "ArujanKakinaga_adaptive.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "1d49775e3efcc499b44add9d05f61264",
+				"Address" : "ArujanKakinaga_flip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "かき氷",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "15999c99f328d623ecac00eb76a9a851",
+				"Address" : "ArujanOugonpei_adaptive.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "54f38d3af31170c8d0482fdd288a9130",
+				"Address" : "ArujanOugonpei_flip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u9ec4\u91d1\u5317",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "88345b9b11501c2dcf5c633741fae965",
+				"Address" : "ArujanHACHIYAMARealA.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "9ebd472f41824a9de9b0de09d706b039",
+				"Address" : "ArujanHACHIYAMARealA_flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4e587466002fd0d3ac0c5af9539e3e6d",
+				"Address" : "ArujanHACHIYAMARealA_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u30cf\u30c1\u30e4\u30de(\u5b9f\u5199)",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "8df0b171409df73322ea261d0801798d",
+				"Address" : "ArujanHACHIYAMARealB.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "45e351d6faeb4b290914859cbb3777a3",
+				"Address" : "ArujanHACHIYAMARealB_flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a9e807a1e09406e47f37a57a8ea20515",
+				"Address" : "ArujanHACHIYAMARealB_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u30cf\u30c1\u30e4\u30de(\u5b9f\u5199\u30ab\u30e9\u30fc)",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		}
+	],
+	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "b63cd2d80b99c226e871a37528d8b0db",
+				"Address" : "ArujanHaguki.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"FPS" : 1,
+			"Name" : "\u6b6f\u830e1",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "e7a7e2a4a017500bcce54f2e51778535",
+				"Address" : "ArujanHagukiN.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"FPS" : 1,
+			"Name" : "\u6b6f\u830e2",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "6a566e70ea9d4219f7e31be8e479b296",
+				"Address" : "ArujanHagukiH.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"FPS" : 1,
+			"Name" : "\u6b6f\u830e3",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "111b2bd91171c85ac24f637e1c72cc9c",
+				"Address" : "ArujanKakinaga_adaptive.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "1d49775e3efcc499b44add9d05f61264",
+				"Address" : "ArujanKakinaga_flip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"FPS" : 1,
+			"Name" : "\u30aa\u30bf\u30af",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
+				"Hash" : "15999c99f328d623ecac00eb76a9a851",
+				"Address" : "ArujanOugonpei_adaptive.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "54f38d3af31170c8d0482fdd288a9130",
+				"Address" : "ArujanOugonpei_flip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"FPS" : 1,
+			"Name" : "\u9ec4\u91d1\u5317",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		}
+	],
+	"Nameplates" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "Arujan Cosmicube",
+			"Format" : "Arujan Cosmicube",
+			"Priority" : 0
+		}
+	]
+}
