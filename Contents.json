@@ -283,6 +283,26 @@
 		},
 		{
 			"Main" : {
+				"Hash" : "6952fb210074cc2f17863dd8c752c123",
+				"Address" : "ArujanSeto.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "7e9dc43df115867ea7d6c3f216f7a162",
+				"Address" : "ArujanSeto_climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "\u702c\u6238\u3042\u3055\u3072",
+			"Author" : "\u30a2\u30eb\u30b8\u30e3\u30f3\u30b9\u30ad\u30f3\u90e8",
+			"Package" : "Arujan Cosmicube"
+		},
+		{
+			"Main" : {
 				"Hash" : "5de996717330c85895651f84f3b9b693",
 				"Address" : "ArujanHatena.png",
 				"ExIsFront" : False
