@@ -21,7 +21,7 @@
 ・Nebula on the Ship（https://github.com/Dolly1016/Nebula/)</br>
 ・SuperNewRoles（https://github.com/ykundesu/SuperNewRoles）</br>
 
-##　その他  
+## その他  
 <問い合わせ・依頼について>  
 依頼対応しております。  
 下の連絡先から送信してくださると助かります。
